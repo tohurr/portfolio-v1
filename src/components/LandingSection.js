@@ -43,7 +43,7 @@ const LandingSection = () => (
       </Heading>
       <Heading as="h2" size="xl" noOfLines={0} color="#464FEB">
         Welcome to my website!<br />
-        A brand-new version is launching soon—stay tuned!
+        A brand-new version is launching soon, stay tuned!
       </Heading>
       <HStack spacing={8} className="landing-icon">
         {socials.map(({ icon, url }) => (

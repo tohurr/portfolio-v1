@@ -7,7 +7,13 @@ import './Styles.css';
 //not using images under projects atm
 const projects = [
   {
-    title: "Little Lemon Restaurant (under construction)",
+    title: "SaaS X",
+    description:
+      'A personal SaaS app I built for experimentation and learning.',
+    url: "https://saas.tohur.com/",
+  },
+  {
+    title: "Little Lemon Restaurant (dev)",
     description:
       'Come book your table at the Little Lemon restaurant website.',
     url: "https://tohurr.github.io/little-lemon/",
@@ -20,21 +26,14 @@ const projects = [
     url: "https://tohurr.github.io/blood-blank-system/"
   },
   {
-    title: "Lucky Shrub",
+    title: "Lucky Shrub Garden Design",
     description:
       "Lucky Shrub is a garden design firm that specializes in garden creation, maintenance, and landscaping. Built using HTML and CSS.",
     //  getImageSrc: () => require("../images/photo2.jpg"),
     url: "https://tohurr.github.io/luckyshrub/",
   },
   {
-    title: "React Calculator",
-    description:
-      "A calculator built using React that can perform arithmetic operations on numbers. It can calculate the functions such as addition, subtraction, multiplication, and division.",
-    //  getImageSrc: () => require("../images/photo1.jpg"),
-    url: "https://tohurr.github.io/react-calculator-app2/",
-  },
-  {
-    title: "Mobile Prototype",
+    title: "Figma Mobile Prototype",
     description:
       "An interactive, high-fidelity visual design prototype created in Figma to reserve a table on the restaurant's website.",
     //  getImageSrc: () => require("../images/photo4.jpg"),
