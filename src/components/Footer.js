@@ -6,8 +6,8 @@ const Footer = () => {
     <Box backgroundColor="#0D0D0D">
       <footer>
         <div className="footer_logo">
-          <a href="/" rel="noopener noreferrer">
-            <img src="/logo2.png" alt="image" />
+          <a href="/portfolio-v1" rel="noopener noreferrer">
+            <img src="/portfolio-v1/logo2.png" alt="image" />
           </a>
         </div>
         <Flex

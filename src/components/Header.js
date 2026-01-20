@@ -103,10 +103,10 @@ const Header = () => {
               <a
                 //  target="_blank"
                 rel="noopener noreferrer"
-                href="/"
+                href="/portfolio-v1"
                 className="nav-logo"
               >
-                <img src="/logo2.png" alt="image" />
+                <img src="/portfolio-v1/logo2.png" alt="image" />
               </a>
             </HStack>
           </nav>
